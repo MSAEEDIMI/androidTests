@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/test1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/test1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/test3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/magic_bol/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/magic_bol/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/magic_bol/build" />
+      <excludeFolder url="file://$MODULE_DIR$/answer_makir/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/answer_makir/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/answer_makir/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

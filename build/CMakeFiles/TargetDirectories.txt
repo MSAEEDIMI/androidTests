@@ -1,0 +1,3 @@
+/home/mirabadi/androidTests/build/CMakeFiles/flutter_assemble.dir
+/home/mirabadi/androidTests/build/CMakeFiles/edit_cache.dir
+/home/mirabadi/androidTests/build/CMakeFiles/rebuild_cache.dir
