@@ -39,7 +39,7 @@ class _MainScreenState extends State<MainScreen> {
         appBar: AppBar(
           toolbarHeight: 80,
           backgroundColor: Colors.blueGrey,
-          title: Center(child: Text( '\u{1F642} حل دوراهی'.toUpperCase(),style:TextStyle(fontWeight: FontWeight.bold ,fontFamily: 'hederFont',fontSize: 30),)),
+          title: Center(child: Text( '\u{1F642} حل دوراهی'.toUpperCase(),textAlign:TextAlign.end,style:TextStyle(fontWeight: FontWeight.bold ,fontFamily: 'hederFont',fontSize: 30),)),
         ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -60,7 +60,7 @@ class _MainScreenState extends State<MainScreen> {
                     child: Column(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        Text('$stateMent ',style: TextStyle(fontFamily: 'bodyFont',fontSize: 30,color: Colors.black,fontWeight: FontWeight.bold),),
+                        Text('$stateMent ',textAlign: TextAlign.center,style: TextStyle(fontFamily: 'bodyFont',fontSize: 30,color: Colors.black,fontWeight: FontWeight.bold),),
                       ],
                     ),
                   ),

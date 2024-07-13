@@ -21,6 +21,12 @@
       <excludeFolder url="file://$MODULE_DIR$/answer_makir/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/answer_makir/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/answer_makir/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quiz/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/quiz/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quiz/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
