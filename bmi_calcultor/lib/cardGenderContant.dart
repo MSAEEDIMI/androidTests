@@ -1,9 +1,8 @@
+import 'package:bmi_calcultor/constants.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-const double topCardFonts=20;
-const double iconCardSize=80;
 
 class cardContant extends StatelessWidget {
   final IconData? icon;
@@ -19,7 +18,7 @@ class cardContant extends StatelessWidget {
       children: [
         Icon(icon,size: iconCardSize,color: color,),
         SizedBox(height: 13,),
-        Text(label!,style: TextStyle(color: Colors.black,fontSize: topCardFonts ,fontFamily: 'head',),),
+        Text(label!,style: textStyle,),
       ],
     );
   }

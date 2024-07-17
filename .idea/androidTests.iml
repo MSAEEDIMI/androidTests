@@ -27,6 +27,9 @@
       <excludeFolder url="file://$MODULE_DIR$/quiz/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/quiz/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/quiz/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi_calcultor/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi_calcultor/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi_calcultor/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
