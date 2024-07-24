@@ -1,8 +1,8 @@
-class wetherData{
+class WetherModel{
   String? location,description,icon;
   dynamic temp ,feelslike,humidity,wind;
 
-  wetherData({
+  WetherModel({
     this.location,
     this.description,
     this.icon,
