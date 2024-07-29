@@ -1,4 +1,3 @@
-import 'dart:ui';
 
 import 'package:chat/components/rounded_button.dart';
 import 'package:chat/screens/login_screen.dart';
@@ -48,7 +47,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 DefaultTextStyle(
-                  style: WelcomeTitel,
+                  style: welcomeTitel,
                   child: AnimatedTextKit(
                     totalRepeatCount: 1,
                     animatedTexts: [
@@ -64,7 +63,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
                   ),
                 ),
                 DefaultTextStyle(
-                  style: WelcomeTitel,
+                  style: welcomeTitel,
                   child: AnimatedTextKit(
                     totalRepeatCount: 1,
                     animatedTexts: [
